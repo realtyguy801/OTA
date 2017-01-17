@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+	 <angler>
+            <Filename>RR-N-v5.8.1-20170113-angler-PIMPS-OMS.zip</Filename>
+        <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=457095661767129608
+	    </RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGapps"
+                description="Download latest OpenGapps">http://opengapps.org
+	    </OpenGappsUrl>
+	    <VendorUrl
+		id="vendor"
+                title="Vendor"
+                description="Download latest Vendor Image">https://www.androidfilehost.com/?fid=385035244224412325      
+	    </VendorUrl>
+	    <Radio_BootloaderUrl
+		id="radio_bootloader"
+                title="Radio and Bootloader"
+                description="Download latest Radio and Bootloader"> https://www.androidfilehost.com/?fid=457095661767129408      
+	    </Radio_BootloaderUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn
+	    </ChangelogUrl>
+         </angler>
+    </Stable>
+</SlimOTA>
