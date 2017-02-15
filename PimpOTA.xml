@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <angler>
-            <Filename>RR-N-v5.8.1-20170213-angler-PIMPS.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170215-angler-PIMPS.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
