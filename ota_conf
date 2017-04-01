@@ -1,9 +1,9 @@
 ########Place in root of RR source########
-ota_url=https://raw.githubusercontent.com/pimpmaneaton/OTA/n7.1/PimpOTA.xml
+ota_url=https://raw.githubusercontent.com/realtyguy801/OTA/n7.1/PimpOTA.xml
 release_type=Stable
 device_name=ro.product.device
 
-#example ro.rr.version=RR-N-v5.8.1-20170113-angler-PIMPS-OMS.zip
+#example ro.rr.version=RR-N-MAGISK-v5.8.2-20170401-angler-PimpsX.zip
 version_source=ro.rr.version
 version_delimiter=-
 version_position=3
